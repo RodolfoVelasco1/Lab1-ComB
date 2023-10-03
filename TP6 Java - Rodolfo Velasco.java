@@ -1,6 +1,6 @@
-//Repositorio GitHub: https://github.com/RodolfoVelasco1/Lab1-ComB
+﻿//Repositorio GitHub: https://github.com/RodolfoVelasco1/Lab1-ComB
 
-//Alumno: Rodolfo Nicolás Velasco Fessler
+//Alumno: Rodolfo Nicolás Velasco Fessler.
 
 // TP6 - JAVA
 
