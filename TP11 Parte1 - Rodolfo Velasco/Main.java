@@ -7,8 +7,6 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 public class Main {
-    private static ArrayList <Integer> cantidad;
-
     public static void main(String[] args){
         System.out.println("Ejercicio 1");
         ejercicio1();
@@ -19,7 +17,7 @@ public class Main {
         System.out.println("\nEjercicio 3");
         ArrayList <String> articulos = new ArrayList();
         ArrayList <Double> precioUnitario = new ArrayList();
-        cantidad = new ArrayList();
+        ArrayList <Integer> cantidad = new ArrayList();
         Factura mi_factura = new Factura(1234, "24/10/2023", "Juan Salvo", articulos, precioUnitario, cantidad, 0, 0, 0);
         mi_factura.menu();
         System.out.println("\nFACTURA:");
